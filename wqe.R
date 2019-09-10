@@ -1,5 +1,5 @@
 # Copyright Information: This code was developed by Minh H. Nguyen at the Department of Computer 
-# Science University College London in 2019. All queries are to be directed to minh.nguyen.18@ucl.co.uk
+# Science University College London in 2019. All queries are to be directed to minh.nguyen.18@ucl.ac.uk
 # or alternatively minguyen@tcd.ie.
 
 library('TLMoments')
